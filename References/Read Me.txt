@@ -1,0 +1,4 @@
+Read Me - Reference File
+
+This file is used to store all of the needed files for the launcher, I could theoretically move all of this into a location in AppData. 
+One of the problems with that is it'd basically be a permenant move and would take up space on everyone's C:/

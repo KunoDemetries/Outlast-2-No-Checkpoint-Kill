@@ -1,0 +1,6 @@
+Read Me - Backup File
+
+- The use of this folder is in the event the program crashes and may wipe the pre-existing save files from it's components.
+In the event of it being wyped you can replace the files back in the folder "References/Saves"
+
+- The Timer.txt file is for the hub's timer component, deleting it will reset the component back to zero.
